@@ -1,4 +1,4 @@
 echo main3 > main3.txt
-git add .
-git commit -m "main3"
+git commit -am "main3"
+
 
